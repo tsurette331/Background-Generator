@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #00ee00, #ee0000);
+}
+
+h1 {
+    font-size:2vw;
+}
+
+h2 {
+    font-size: 1.5vw;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    font-family: 'times',serif;
+    font-weight: bolder;
+}
